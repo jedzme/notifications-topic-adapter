@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+
+<!-- TestCase Results Document created by LISA Test Editor -->
+<!-- On: Tue Dec 19 12:16:15 PST 2017 -->
+
+
+<Results name="smokeTest">
+
+
+    <Result node="https GET /health">
+      <content type="com.itko.lisa.http.html.HtmlResponseWrapper" charset="UTF-8"><![CDATA[SFRUUC8xLjEgMjAwIA0KQ2FjaGUtQ29udHJvbDogbm8tY2FjaGUsIG5vLXN0b3JlLCBtYXgtYWdlPTAsIG11c3QtcmV2YWxpZGF0ZQ0KQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi92bmQuc3ByaW5nLWJvb3QuYWN0dWF0b3IudjEranNvbjtjaGFyc2V0PVVURi04DQpEYXRlOiBUdWUsIDE5IERlYyAyMDE3IDE5OjQzOjMyIEdNVA0KRXhwaXJlczogMA0KUHJhZ21hOiBuby1jYWNoZQ0KU2VydmVyOiBuZ2lueC8xLjExLjEyDQpTdHJpY3QtVHJhbnNwb3J0LVNlY3VyaXR5OiBtYXgtYWdlPTE1NzI0ODAwOyBpbmNsdWRlU3ViRG9tYWluczsNClgtQXBwbGljYXRpb24tQ29udGV4dDogYXBwbGljYXRpb246ODQ0Mw0KWC1Db250ZW50LVR5cGUtT3B0aW9uczogbm9zbmlmZg0KWC1GcmFtZS1PcHRpb25zOiBERU5ZDQpYLVhTUy1Qcm90ZWN0aW9uOiAxOyBtb2RlPWJsb2NrDQp0cmFuc2Zlci1lbmNvZGluZzogY2h1bmtlZA0KQ29ubmVjdGlvbjoga2VlcC1hbGl2ZXsic3RhdHVzIjoiVVAiLCJkaXNrU3BhY2UiOnsic3RhdHVzIjoiVVAiLCJ0b3RhbCI6MTAxNTUyMjA1ODI0LCJmcmVlIjo5MTI4ODYyMTA1NiwidGhyZXNob2xkIjoxMDQ4NTc2MH19]]></content>
+    </Result>
+
+
+</Results>
